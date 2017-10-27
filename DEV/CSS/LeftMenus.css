@@ -1,0 +1,25 @@
+﻿.leftnav-wrapper a, .leftnav-wrapper a:visited
+{
+	font: 8pt Arial,Helvetica,sans-serif;
+	color: #0066cc;
+	padding: 0 0.5em;
+	text-decoration: none;
+	display:block;
+}
+tr.menuOff:hover td, div.cellOff:hover
+{
+	background: #f5f5cd;
+}
+tr.menuOn td a
+{
+	color: #000000;
+	cursor: default;
+}
+tr.menuOn td
+{
+	background: #ccc;
+}
+div.cellOff
+{
+	margin-left: 5px;
+}

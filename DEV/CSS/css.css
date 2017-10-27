@@ -1,0 +1,245 @@
+/* Begin Reset -- http://meyerweb.com/eric/tools/css/reset/ -- v1.0 | 20080212 */
+
+	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn,
+	em, font, img, input, ins, kbd, q, s, samp, select, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend,
+	table, caption, tbody, textarea, tfoot, thead, tr, th, td { margin:0; padding:0; border:0 none; outline:0; font-size:100%; vertical-align:baseline; 	background:transparent; }
+	
+	body { 	line-height:1em; }
+	blockquote, q { quotes:none; }
+	blockquote:before, blockquote:after, q:before, q:after { content:''; content:none; }
+	:focus { outline:0; }
+	ins { text-decoration:none; }
+	del { text-decoration:line-through; }
+	table { border-collapse:collapse; border-spacing:0; }
+	ol, ul { list-style:none}
+	
+/* End Reset */
+/* ----------------------------------------------------------------------------------------------- */
+/* -- x.x Clearfix -- */
+.clearFix:after, .post:after{content:".";display:block;height:0;clear:both;visibility:hidden}
+.clear,.clearBoth{clear:both}
+.clearFix{display:inline-block}
+/* Hide from IE Mac \*/ 
+.clearFix{display:block} 
+/* End hide from IE Mac */
+.none{display:none} 
+/* End Clearfix */
+/* ----------------------------------------------------------------------------------------------- */
+/* Begin Page CSS */
+body{color:inherit;font:8pt Arial, Helvetica, sans-serif;margin:0}
+ol, ul, dd{list-style:none outside none;margin:0;padding:0}
+p{font-weight:normal;line-height:1.45em;text-align:justify} 
+.body{position:relative;}
+.first{margin-left:0 !important}
+#main{margin:0 auto;width:1000px;background:#fff}
+#objective{	margin:20px 0 0 0}
+#objective h2{background:url("../images/dot.gif") repeat-x scroll left bottom transparent;color:#666;display:block;font-size:18px;font-style:italic;font-weight:normal;margin:0 0 5px;padding:0 0 10px}
+#objective ul{padding:20px 0 0 40px;list-style:disc}
+#objective ul li{color:#444444;padding:0 0 10px 10px;line-height:1.5em}
+
+a{color:#0066cc; text-decoration:underline}
+a:hover{text-decoration:none}
+
+
+/* -- 5.0 header -- */
+#header{position:relative;z-index:9999}
+#header .wrapper{height:125px}
+/* -- 5.2 search -- */
+.searchArea{position:absolute;top:15px;right:0;padding:0;width:300px}
+.xoxo{margin:0;padding:0}
+.xoxo li{	margin:0;padding:0 0 5px 0}
+#searchform{overflow:hidden;float:right}
+#searchform input#s{width:183px;float:left;text-transform:none;background:#fff;border:1px solid #ccc;border-right:none;color:#333;height:15px;padding:6px 32px 7px 5px}
+#searchform #s:hover{}
+#searchform input#searchsubmit{width:24px;text-indent:-9999px;height:30px;background:url("../images/icon-search.gif") no-repeat left top;float:left;cursor:pointer;padding:0;font-size:0;color:#fff;text-align:right;padding-right:1px}
+#searchsubmit:hover{background:#da990c}
+#searchform:hover{text-decoration:none}
+.widget ul li{margin:0;padding-bottom:12px}
+.widget:first-child{margin:0}
+.widget #menu-top-links{float:right;overflow:hidden}
+.widget #menu-top-links li{float:left;font-style:italic;border-left:1px solid #999;padding:0 0 0 2px;margin-left:12px;line-height:1.3em}
+*+ html .widget #menu-top-links li{margin-left:6px}
+.widget #menu-top-links li:first-child{border:none}
+.widget #menu-top-links li a{text-decoration:none;font-weight:normal;color:#999;padding-left:10px;background-repeat:no-repeat;background-position:0 5px}
+.widget #menu-top-links li a:hover{color:#333;background-image:url(marker00.gif)}
+/* -- 6.0 Primary Navigation -- */
+#primary-nav{z-index:9998;position:absolute;left:0;top:80px;background:#375318;border-top:6px solid #375318;width:100%}
+#primary-nav ul{margin:0;padding:0;list-style:none}
+#primary-nav ul a{display:block;float:left;position:relative;text-decoration:none;font-weight:normal}
+#primary-nav ul li{float:left;background:none;position:relative;font-family:Georgia, "Times New Roman", Times, serif;font-style:italic}
+#primary-nav ul li:hover{visibility:inherit}
+#primary-nav ul ul{position:absolute;top:-9999em;width:174px;z-index:99}
+#primary-nav ul ul li{clear:both}
+/* Make sub menus appear */
+#primary-nav ul li:hover ul,  #primary-nav ul li.sfHover ul{left:-26px;top:57px;z-index:99}
+/* Hide all subs subs (4 levels deep) */
+#primary-nav ul li:hover li ul,  #primary-nav ul li.sfHover li ul,  #primary-nav ul li li:hover li ul,  #primary-nav ul li li.sfHover li ul,  #primary-nav ul li li li:hover li ul,  #primary-nav ul li li li.sfHover li ul{top:-9999em}
+/* Displays all subs subs (4 levels deep) */
+#primary-nav ul li li:hover ul,  #primary-nav ul li li.sfHover ul,  #primary-nav ul li li li:hover ul,  #primary-nav ul li li li.sfHover ul,  #primary-nav ul li li li li:hover ul,  #primary-nav ul li li li li.sfHover ul{left:175px;top:0px}
+/* top level skin */
+#primary-nav ul li{cursor:pointer;padding-right:7px}
+*+ html #primary-nav ul li{padding-right:43px}
+#primary-nav ul li:first-child{padding-left:20px}
+#primary-nav ul li li:first-child{padding:0}
+#primary-nav ul li a{color:#B9CC7B;position:relative;overflow:hidden;display:block;float:left;line-height:30px;padding:0 20px}
+#primary-nav ul li a:hover,  #primary-nav ul li.current-menu-item a{	color:#000;background:#fff;padding:0 20px}
+#primary-nav ul li a:hover,  #primary-nav ul li.sfHover a,  #primary-nav ul li.current-cat a,  #primary-nav ul li.current-menu-item a{}
+#primary-nav ul li li a:hover,  #primary-nav ul li.sfHover li a,  #primary-nav ul li.current-cat li a,  #primary-nav ul li.current-menu-item li a{color:#fff}
+/* 2nd level skin */
+#primary-nav ul ul{}
+#primary-nav ul ul li{float:none;background:none;position:relative;padding:0;font-style:normal;font-family:Arial, Helvetica, sans-serif}
+#primary-nav ul ul li a{font-weight:bold;overflow:hidden;float:none;display:block;line-height:36px;color:#fff;text-transform:none;margin:0 0 1px 0;background:#9f9d9d;text-indent:20px}
+#primary-nav ul ul li:hover a,  #primary-nav ul ul li.sfHover a{background:#0b0403}
+#primary-nav ul li ul li.sfHover li a,  #primary-nav ul li ul li.current-menu-item li a,  #primary-nav ul li ul li.current-menu-item:hover a{color:#fff;text-decoration:none}
+/* 3rd level onwards */
+#primary-nav ul ul ul{}
+#primary-nav ul li ul li ul li{float:none;padding:0 0 0 0;margin:0 0 0 0}
+#primary-nav ul ul ul li a{float:none;background:#0b0403}
+#primary-nav ul ul li.sfHover, #primary-nav ul ul li.sfHover, #primary-nav ul ul a:focus, #primary-nav ul ul a:hover, #primary-nav ul ul a:active{outline:0}
+#primary-nav ul ul li ul li:hover a,  #primary-nav ul ul li ul li.current-menu-item a{background:#9f9d9d}
+/**/
+.line{background:url("../images/divider.gif") repeat-x scroll left bottom transparent;height:1px;padding:10px 0}
+#philosophy{clear:both;height:270px;padding-top:20px}
+
+#philosophy #gallery{float:right;padding-left:20px;position:relative;width:320px}
+#philosophy h2{color:#375318;display:block;margin:15px 10px 10px 0;padding:0;font:Arial, Helvetica, sans-serif}
+#philosophy p{color:#333333}
+.form fieldset{border:none;/*height:185px;*/margin:0px}
+.form label{position:relative;float:left;width:150px;text-align:right;padding-right:10px;clear:left;height:30px;line-height:2em;margin:0 0 3px 0}
+.form input, .form select{position:relative;float:left;padding:5px;width:225px;border:1px solid #999;margin:0 0 3px 0}
+.form select{padding:0;margin-top:5px;font-style:normal}
+.form textarea{position:relative;float:left;padding:5px;width:260px;font:normal 13px arial;border:1px solid #999;height:50px;margin:0 0 3px 0}
+.form input.button{background-color:#638201;border:1px solid #364701;color:#DFE64C;clear:both;position:relative;width:80px;font-family:georgia;font-style:italic;margin:2px 0 0 160px;cursor:pointer}
+.form input.button:hover{background-color:#EF9024;border:1px solid #900;color:#fff}
+.form fieldset p.answer{float:none;color:#DFE64C;text-align:left;margin-left:90px}
+.form input#address{visibility:hidden; display:none}
+.txtRed{color:red;padding-left:10px}
+.form legend{font:bold 1.4em Arial, Helvetica, sans-serif;color:#666;display:block;line-height:2em;border-bottom:1px dashed #999;font-style:italic;width:100%;margin:0 0 15px 0}
+
+/*--------Login---------*/
+/* @group Login */
+#login{clear:both;height:400px;margin:30px 0 0 0}
+
+/*--------Register---------*/
+/* @group Register */
+#register{clear:both;height:400px;margin:30px 0 0 0}
+.mLeft25{margin-left:25%}
+
+/*--------Contact Us---------*/
+/* @group Contact */
+
+#contact{clear:both;height:400px;margin:30px 0 0 0;line-height:1.5em}
+#contact #us{float:left;width:45%;margin:0 100px 0 0}
+#contact #us legend{}
+#contact label{position:relative;float:left;width:70px;text-align:right;padding-right:10px;clear:left;height:30px;line-height:2em;margin:0 0 3px 0}
+#contact input.button{margin:2px 0 0 80px}
+
+/*--------Contact Us---------*/
+/* @group Contact Us */
+
+/*--------Cultivation---------*/
+/* @group Cultivation */
+#cultivation{clear:both;height:400px;margin:30px 0 0 0;line-height:1.5em}
+
+/*--------Cultivation---------*/
+/* @group Cultivation */
+
+/*
+#footer .div1{border-bottom:1px solid #8f9a80;background:#1F3400;height:15px}	
+#footer .div2{background:#182900;padding:10px 0}	
+#footer .div3{border-top:1px solid #8f9980;background:#1e3300;height:15px}	
+#footer p a{line-height:2em;color:#fff;text-align:center;text-decoration:none;padding:0 10px}
+#footer p{line-height:2em;color:#fff;text-align:center}
+*/
+/* @end */
+#head nav ul{/*margin:0px;*//*padding:5px 0;*//*text-align:right;*/}
+#head nav ul li{position:relative; float:left; margin:0;height:27px;padding-top:3px}
+#head nav ul li.selected, #head nav ul li:hover{background:#4c0404 url(nav-hove.png) repeat-x top}
+#head nav ul li:hover a{color:white;text-decoration:underline}
+	
+#head nav ul li a{margin:8px; text-align:center;  padding:10px 10px 0; text-decoration:none}
+#head nav ul li a:link{color:#ccc}
+#head nav ul li a:visited{color:#a18f8f}
+
+/* Image rotator */
+.flashBanner{width:749px;height:442px;margin:10px;}
+#rotator{background:none;position:relative;width:749px;height:442px}
+#rotator{position:relative;background:none}
+#rotator a{height:442px;width:749px;display:block;position:absolute;top:0;left:0;background:none}
+#pager{bottom:20px;display:inline;float:right;margin-top:10px;position:absolute;right:10px;z-index:20}
+#pager a{font:normal 9px Arial, Helvetica, sans-serif;color:#999;padding:0px 3px;text-decoration:none;background:#999;margin:0 5px 0 0;border:1px solid #fff}
+#pager a:hover, #pager a.activeSlide{background:#000;color:#000;border:1px solid #fff}
+/* /Image rotator */
+
+h1.subPage{border-bottom:1px solid #BFBFBF;color:#0B0403;font-family:Georgia,"Times New Roman",Times,serif;font-style:italic;font-weight:normal;line-height:1.2em;margin:20px 0 24px 0}
+
+.ol{ padding:20px 0 0 40px; margin:0;list-style:decimal}
+.ol li{ padding-bottom:20px;font-weight:normal;line-height:1.45em}
+/* End Page CSS */
+
+#blurb{color:#666;font-size:20px;font-family:Georgia;font-weight:400;font-style:italic;height:auto;line-height:120%;margin:35px 35px 45px 35px}
+
+.topnav-wrapper {color:#ccc; padding:5px 10px; margin:0;background:#eee;border-bottom:1px solid #ccc}
+.topnav-wrapper .width50{width:50%;float:left}
+.topnav-wrapper .aRight{text-align:right}
+.topnav-wrapper a, .topnav-wrapper a:visited {color:#0066cc; text-decoration:underline; padding:0 0.5em}
+.topnav-wrapper a:hover, .topnav-wrapper a:visited:hover {text-decoration:none}
+.topnav-wrapper a.current, .topnav-wrapper a.current:visited {color:#000000;cursor:default;font-weight:bold;text-decoration:none}
+
+.lostLogin{float:left;margin:10px 0 0 160px;clear:both}
+.cols{margin:30px 0}
+.col1{width:25%;float:left}
+.leftNav{padding:0;margin:0;list-style:none;border-top:1px solid #eee}
+.leftNav li{margin:0;padding:0}
+.leftNav li a{display:block;margin:0;font-size:8pt;padding: 5px 0 5px 5px;border:1px solid #eee;border-top:none}
+.leftNav li a, .leftNav li.selected a:hover{color:#000;text-decoration:none}
+.leftNav li a:hover{background:#ccc;color:green}
+.leftNav li.selected a{background:#eee;font-weight:bold}
+.col2{width:75%;float:left}
+.col2 .bor{border:5px solid #eee;min-height:300px;padding:20px}
+
+.grid{}
+.grid th, .grid td{padding:10px 8px;text-align:left;vertical-align:top;}
+.grid td a img{text-align:center}
+.grid th{background:#ddd}
+.list-row-even td{background-color:#F1EBDC}
+.list-row-odd td{background-color:#fff}
+.list-row-even td  a img, .list-row-odd td  a img{background-color:#fff}
+
+/*--------education---------*/
+/* @group education */
+#education{margin-bottom:30px}
+#education label{position:relative;float:left;width:35%;text-align:right;padding-right:1%;clear:left;height:30px;line-height:2em;margin:0 0 3px 0}
+#education input.button{margin:2px 0 0 36%}
+
+.uploadMessage{margin-top:20px;}
+.uploQuestPa{margin-top:20px;padding-top:20px;border-top:5px solid #eee;}
+
+.upload {
+	position:relative;
+	width:346px;
+	margin-left:35%;
+}
+.form input.realupload {
+	cursor: pointer;
+	position:absolute;
+	top:0;
+	right:0;
+	/* start of transparency styles */
+	opacity:0;
+	-moz-opacity:0;
+	filter:alpha(opacity:0);
+	/* end of transparency styles */
+	z-index:9999; /* bring the real upload interactivity up front */
+	width:81px;
+	float:none;
+	border:0;
+	margin:0;
+	padding:0;
+	height:25px;
+}
+.form .fakeupload{background:url("../images/browse.png") no-repeat scroll right top transparent;width:315px;height:23px}
+.form .fakeupload input{width:217px;padding:3px}
+/*--------education---------*/
+/* @group education */
+

@@ -1,0 +1,63 @@
+﻿BODY, input, select
+{
+	margin: 0;
+	font: 8pt Arial,Helvetica,sans-serif;
+}
+.mainDiv
+{
+	width: 95%;
+	margin: 10px auto 0 auto;
+}
+.formElements
+{
+	background: #f5f5f5;
+	border: 1px solid #ccc;
+}
+.formElements td
+{
+	padding: 5px;
+}
+.buttonPannel
+{
+	background: #ccc;
+}
+h2
+{
+	margin: 0;
+	font-size: 14px;
+	width: 257px;
+}
+select
+{
+	width: 250px;
+	margin-bottom: 5px;
+}
+br
+{
+	clear: both;
+}
+.grid
+{
+	height: 275px;
+	overflow-y: scroll;
+	width:100%;
+	
+}
+.grid table
+{
+	border-collapse: collapse;
+}
+.grid table th, .grid table td
+{
+	border: 1px solid #ccc;
+}
+.grid th
+{
+	background: #eee;
+	padding: 3px 5px;
+}
+.grid td
+{
+	padding: 2px 3px;
+}
+.req{color:red}

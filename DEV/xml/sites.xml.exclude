@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<sites>
+  <site>
+    <url><![CDATA[https://www.amazon.com/b?node=283155&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=1F4JYCPDSWG3V5JH9GD9&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: Books</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/associates/2006/books/34percent/us_books_728x90.gif]]></imageURL>
+  </site>
+
+  <site>
+    <url><![CDATA[http://www.jdoqocy.com/click-3697437-10686427]]></url>
+    <target>_new</target>
+    <alt>Swoopo.com</alt>
+    <imageURL>http://www.yceml.net/0987/10686427-9.jpg</imageURL>
+  </site>
+
+  <site>
+    <url><![CDATA[https://www.amazon.com/b?node=301185&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=0XQ9AF1A979DR0HHD2DV&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: Cell Phones</alt>
+    <imageURL>https://images-na.ssl-images-amazon.com/images/G/01/associates/2007/wireless/us_banner_wireless_728x90.gif</imageURL>
+  </site>
+  <site>
+    <url><![CDATA[https://www.amazon.com/b?node=172282&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=007PRFSZE7TJNJVSCW6V&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: Find The Perfect Holiday Gift</alt>
+    <imageURL>https://images-na.ssl-images-amazon.com/images/G/01/associates/2005/served-banners/holiday/us_holidaybanner_electronics_728x90.gif</imageURL>
+
+  </site>
+  <site>
+    <url><![CDATA[https://www.amazon.com/b/?node=381910011&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=1EX7Z2QV88EYZKBD61N8&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: Software Downloads</alt>
+    <imageURL>https://images-na.ssl-images-amazon.com/images/G/01/digital/infinity/marketing/associate_banner_sw_728_90.gif</imageURL>
+  </site>
+
+  <site>
+    <url><![CDATA[http://www.mochahost.com/1160-0-1-69.html]]></url>
+    <target>_new</target>
+    <alt>MochaHost</alt>
+    <imageURL>http://www.mochasupport.com/aff/banners/728x90-2_2009.gif</imageURL>
+  </site>
+
+  <site2>
+    <url><![CDATA[http://www.mochahost.com/1160-0-1-69.html]]></url>
+    <target>_new</target>
+    <alt>MochaHost</alt>
+    <imageURL>http://www.mochasupport.com/aff/banners/728x90-2_2009.gif</imageURL>
+  </site2>
+</sites>

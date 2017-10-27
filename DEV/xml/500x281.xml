@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sites>
+  <site500x281>
+    <url>Default2.aspx</url>
+    <target>_new</target>
+    <alt>Link 1</alt>
+    <imageURL>http://localhost:49736/images/IMG_20170912_160051.jpg</imageURL>
+
+  </site500x281>
+
+  <site500x281>
+    <url>Default2.aspx</url>
+    <target>_new</target>
+    <alt>Link 2</alt>
+    <imageURL>http://localhost:49736/images/IMG_20170912_160054.jpg</imageURL>
+    
+  </site500x281>
+
+  <site500x281>
+    <url>Default2.aspx</url>
+    <target>_new</target>
+    <alt>Link 3</alt>
+    <imageURL>http://localhost:49736/images/IMG_20171007_191254.jpg</imageURL>
+
+  </site500x281>
+
+  <site500x281>
+    <url>Default2.aspx</url>
+    <target>_new</target>
+    <alt>Link 4</alt>
+    <imageURL>http://localhost:49736/images/IMG_20171008_073052.jpg</imageURL>
+
+  </site500x281>
+
+
+  <site500x281>
+    <url>Default2.aspx</url>
+    <target>_new</target>
+    <alt>Link 5</alt>
+    <imageURL>http://localhost:49736/images/IMG_20171008_073115.jpg</imageURL>
+  </site500x281>
+
+  <site500x281>
+    <url>Default2.aspx</url>
+    <target>_new</target>
+    <alt>Link 6</alt>
+    <imageURL>http://localhost:49736/images/IMG_20171008_073139.jpg</imageURL>
+  </site500x281>
+
+
+  <site500x281>
+    <url>Default2.aspx</url>
+    <target>_new</target>
+    <alt>Link 7</alt>
+    <imageURL>http://localhost:49736/images/IMG_20171008_073139.jpg</imageURL>
+  </site500x281>
+
+  <site500x281>
+    <url>Default2.aspx</url>
+    <target>_new</target>
+    <alt>Link 8</alt>
+    <imageURL>http://localhost:49736/images/IMG_20171008_073139.jpg</imageURL>
+  </site500x281>
+  
+  
+</sites>

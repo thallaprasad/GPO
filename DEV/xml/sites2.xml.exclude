@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sites>
+  <site120x60>
+    <url><![CDATA[https://www.amazon.com/b?node=465600&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=1642E2P7Q0DZDBH2MEEG&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: Textbooks</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/associates/2005/served-banners/us_banner_sot_120x60.gif]]></imageURL>
+  </site120x60>
+
+  <site120x60>
+    <url><![CDATA[https://www.amazon.com/b?node=258061011&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=1VK9WR0H4RAW5NY5ZJ5J&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: Halloween</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/img09/associates/button-1/halloween_assoc_120x60.gif]]></imageURL>
+  </site120x60>
+
+  <site120x60>
+    <url><![CDATA[https://www.amazon.com/b?node=16310101&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=05XNQH2C28N2955F6MNK&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: Grocery</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/associates/120x60-grocery.gif]]></imageURL>
+  </site120x60>
+  
+  <site120x60>
+    <url><![CDATA[https://www.amazon.com/b?node=465600&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=1642E2P7Q0DZDBH2MEEG&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: Textbooks</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/associates/2005/served-banners/us_banner_sot_120x60.gif]]></imageURL>
+  </site120x60>
+
+  <site120x60>
+    <url><![CDATA[https://www.amazon.com/b?node=16261631&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=1WWQWGSFRVMDRCEN886B&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: Video</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/associates/2008/banners/120x60-d-Amazon-video-on-demand-movies-tv.gif]]></imageURL>
+  </site120x60>
+
+  <site120x60>
+    <url><![CDATA[https://www.amazon.com/b?node=16024891&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=0H9AJEKRZXAJMSC070NW&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: jewelry_watches</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/associates/2008/jewelry_watches/jewelry_120x60.gif]]></imageURL>
+  </site120x60>
+
+  <site120x60>
+    <url><![CDATA[https://www.amazon.com/b?node=165796011&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=183K91C41MAFJNPDHDNR&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: babybanners</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/associates/2006/babybanners/us_banner_baby_120x60.gif]]></imageURL>
+  </site120x60>
+
+  <site120x60>
+    <url><![CDATA[https://www.amazon.com/b?node=3370831&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=0TDZ35RHDYZAFPQPNRD9&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: us_banner_gour_120x60</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/associates/2005/served-banners/us_banner_gour_120x60.gif]]></imageURL>
+  </site120x60>
+
+  <site120x60>
+    <url><![CDATA[https://www.amazon.com/b?node=5174&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=1PEGF57FE9V1DQVXZ776&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: us_banner_music_120x60</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/associates/2005/served-banners/us_banner_music_120x60.gif]]></imageURL>
+  </site120x60>
+  
+  <site468x60>
+    <url><![CDATA[https://www.amazon.com/gp/feature.html?docId=1000428481&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=0Z3WEMHY4GTT52XKWHYC&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: MP3 468 * 60</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/associates/2008/amazon-grocery-468x60._V261099711_.gif]]></imageURL>
+  </site468x60>
+
+  <site468x60>
+    <url><![CDATA[https://www.amazon.com/b?node=678551011&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=06AC9X2A0SGNYG0FVGYC&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: music</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/digital/music/associates/banners/may-2009/50-for-5-468-ani-b._V223484385_.gif]]></imageURL>
+  </site468x60>
+
+  <site468x60>
+    <url><![CDATA[https://www.amazon.com/b?node=16024891&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=1WYRPRBNS2JHZ9JZC273&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: jewelry_watches</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/associates/2008/jewelry_watches/jewelry_468x60.gif]]></imageURL>
+  </site468x60>
+
+  <site468x60>
+    <url><![CDATA[https://www.amazon.com/b?node=165796011&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=08CGKF9QF76CWGWW79M2&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: babybanners</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/associates/2006/babybanners/us_banner_baby_468x60.gif]]></imageURL>
+  </site468x60>
+
+  <site468x60>
+    <url><![CDATA[https://www.amazon.com/b?node=3370831&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=0HNHFHS4SMPY348BRACK&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: us_banner_gour_468x60</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/associates/2005/served-banners/us_banner_gour_468x60.gif]]></imageURL>
+  </site468x60>
+
+  <site468x60>
+    <url><![CDATA[https://www.amazon.com/hometheater?&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=1G5NP25HCE3YVCKK7G4Y&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: theater_468x60</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/electronics/associates/home-theater_468x60.jpg]]></imageURL>
+  </site468x60>
+
+  <site468x60>
+    <url><![CDATA[https://www.amazon.com/b?node=130&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=07W6BGRY76YJ8ESXABPK&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: dvd_assoc2_468x60</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/img09/associates/full-ban/dvd_assoc2_468x60.gif]]></imageURL>
+  </site468x60>
+
+  <site468x60>
+    <url><![CDATA[https://www.amazon.com/b?node=5174&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=0W374GM3RBD4VCKZ6JXW&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: us_banner_music_468x60</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/associates/2005/served-banners/us_banner_music_468x60.gif]]></imageURL>
+  </site468x60>
+
+  <site234x60>
+    <url><![CDATA[https://www.amazon.com/b?node=465600&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=0P7JBZN3D87D597QRCY2&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: Textbooks 234 * 60</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/associates/2005/served-banners/us_banner_sot_234x60.gif]]></imageURL>
+  </site234x60>
+  
+  <site234x60>
+    <url><![CDATA[https://www.amazon.com/gp/feature.html?docId=1000428481&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=16A7D4YNKSXRDK1Z0NNV&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: Grocery</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/associates/2008/amazon-grocery-234x60._V261099766_.gif]]></imageURL>
+  </site234x60>
+
+  <site234x60>
+    <url><![CDATA[https://www.amazon.com/b?node=165796011&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=0C6T18GRFCE8J4K2S8ZQ&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: babybanners</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/associates/2006/babybanners/us_banner_baby_234x60.gif]]></imageURL>
+  </site234x60>
+
+  <site234x60>
+    <url><![CDATA[https://www.amazon.com/b?node=3370831&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=04SEEEE0GKTQ7BRYZ9E8&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: us_banner_gour_234x60</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/associates/2005/served-banners/us_banner_gour_234x60.gif]]></imageURL>
+  </site234x60>
+
+  <site234x60>
+    <url><![CDATA[https://www.amazon.com/b?node=130&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=0ZYE17J5SPJCFCZXGNQ0&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: dvd_assoc2_234x60</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/img09/associates/other/dvd_assoc2_234x60.gif]]></imageURL>
+  </site234x60>
+
+  <site234x60>
+    <url><![CDATA[https://www.amazon.com/b?node=5174&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=0X20SJ04TYKEM3DWWXXH&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: us_banner_music_234x60</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/associates/2005/served-banners/us_banner_music_234x60.gif]]></imageURL>
+  </site234x60>
+
+  <site120x600>
+    <url><![CDATA[https://www.amazon.com/b?node=1065840&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=0C1EN2JM4TE4T3Z7TKC7&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: amzn_associate_120x600</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/associates/2008/banners/amzn_associate_120x600.gif]]></imageURL>
+  </site120x600>
+
+  <site120x600>
+    <url><![CDATA[https://www.amazon.com/b/?node=979455011&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=05Z4R687HHEBRS77BVD8&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: associate_banner_120_600_v02</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/digital/infinity/associates/associate_banner_120_600_v02._V251152853_.gif]]></imageURL>
+  </site120x600>
+
+  <site120x600>
+    <url><![CDATA[https://www.amazon.com/b?node=672123011&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=05NHN1K764R71AMS3QMS&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: associate_banner_120_600_v02</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/associates/2008/banners/amzn-assoc_shoes_120x600.gif]]></imageURL>
+  </site120x600>
+
+  <site120x600>
+    <url><![CDATA[https://www.amazon.com/b?node=12923371&tag=asp.net.books-20&camp=0&creative=0&linkCode=ur1&adid=1TDG5WHP3QH55E9VEKPB&]]></url>
+    <target>_new</target>
+    <alt>Amazon :: cat_skyscraper</alt>
+    <imageURL><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/img09/pet-supplies/associates/skyscraper/assoc-dog-cat_skyscraper.gif]]></imageURL>
+  </site120x600>
+
+</sites>
